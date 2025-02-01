@@ -1,16 +1,36 @@
+#logger
+class Warning:
+    pass
+
+class Error:
+    pass
+
+class Info:
+    pass
+
+warningobj = Warning()
+errorobj = Error()
+infoobj = Info()
 class Logger:
-    def log(self, message, level="info"):  # Default level is "info"
-        if level.lower() == "error":
-            print(f"[ERROR] {message}")
-        elif level.lower() == "warning":
-            print(f"[WARNING] {message}")
+    def log(self,message,warning:Warning):
+        if warning:
+            print("Warning: "+message)
         else:
-            print(f"[INFO] {message}")
+            print(message)
 
-# Creating an object of Logger
-logger = Logger()
+    def log(self,message,error:Error):
+        if error:
+            print("Error: "+message)
+        else:
+            print(message)
 
-# Logging different types of messages
-logger.log("System running smoothly.")        # Default info log
-logger.log("Low disk space!", "warning")      # Warning log
-logger.log("File not found!", "error")        # Error log
+    def log(self,message,info:Info):
+        if info:
+            print("Info: "+message)
+        else:
+            print(message)
+
+obj = Logger()
+obj.log("This is a log message",warningobj)
+obj.log("This is a log message",errorobj)
+obj.log("This is a log message",infoobj)
