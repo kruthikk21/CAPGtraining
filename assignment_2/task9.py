@@ -9,4 +9,3 @@ class Flying_car(car,airplane):
         print("flying car can travel on road and in air")
 obj=Flying_car()
 obj.mode_of_transport()
-
