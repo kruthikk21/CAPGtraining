@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_Assessments")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff48eb22131e86b44bfb6c41b02176368cc62ff8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a9c881e4f223b0b5f12afe36769aece8d968c7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_Assessments")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_Assessments")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

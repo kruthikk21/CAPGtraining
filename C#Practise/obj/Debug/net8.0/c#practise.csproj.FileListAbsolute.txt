@@ -1,0 +1,15 @@
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\bin\Debug\net8.0\c#practise.exe
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\bin\Debug\net8.0\c#practise.deps.json
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\bin\Debug\net8.0\c#practise.runtimeconfig.json
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\bin\Debug\net8.0\c#practise.dll
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\bin\Debug\net8.0\c#practise.pdb
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\obj\Debug\net8.0\c#practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\obj\Debug\net8.0\c#practise.AssemblyInfoInputs.cache
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\obj\Debug\net8.0\c#practise.AssemblyInfo.cs
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\obj\Debug\net8.0\c#practise.csproj.CoreCompileInputs.cache
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\obj\Debug\net8.0\c#practise.sourcelink.json
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\obj\Debug\net8.0\c#practise.dll
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\obj\Debug\net8.0\refint\c#practise.dll
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\obj\Debug\net8.0\c#practise.pdb
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\obj\Debug\net8.0\c#practise.genruntimeconfig.cache
+C:\Users\kruth\OneDrive\Desktop\CapGeminiTraining\c#practise\obj\Debug\net8.0\ref\c#practise.dll

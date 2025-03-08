@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\C#Practise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70A363-0C07-42FE-8097-F241F04F28B1}|c#practise.csproj|c:\\users\\kruth\\onedrive\\desktop\\capgeminitraining\\c#practise\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70A363-0C07-42FE-8097-F241F04F28B1}|c#practise.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70A363-0C07-42FE-8097-F241F04F28B1}|c#practise.csproj|c:\\users\\kruth\\onedrive\\desktop\\capgeminitraining\\c#practise\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70A363-0C07-42FE-8097-F241F04F28B1}|c#practise.csproj|solutionrelative:exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70A363-0C07-42FE-8097-F241F04F28B1}|c#practise.csproj|c:\\users\\kruth\\onedrive\\desktop\\capgeminitraining\\c#practise\\c#practise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B70A363-0C07-42FE-8097-F241F04F28B1}|c#practise.csproj|solutionrelative:c#practise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70A363-0C07-42FE-8097-F241F04F28B1}|c#practise.csproj|c:\\users\\kruth\\onedrive\\desktop\\capgeminitraining\\c#practise\\overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70A363-0C07-42FE-8097-F241F04F28B1}|c#practise.csproj|solutionrelative:overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70A363-0C07-42FE-8097-F241F04F28B1}|c#practise.csproj|c:\\users\\kruth\\onedrive\\desktop\\capgeminitraining\\c#practise\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70A363-0C07-42FE-8097-F241F04F28B1}|c#practise.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exceptionhandling.cs",
+              "DocumentMoniker": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\C#Practise\\Exceptionhandling.cs",
+              "RelativeDocumentMoniker": "Exceptionhandling.cs",
+              "ToolTip": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\C#Practise\\Exceptionhandling.cs",
+              "RelativeToolTip": "Exceptionhandling.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:24:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\C#Practise\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\C#Practise\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:43:11.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\C#Practise\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\C#Practise\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswDMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:30:49.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "c#practise.csproj",
+              "DocumentMoniker": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\c#practise\\c#practise.csproj",
+              "RelativeDocumentMoniker": "c#practise.csproj",
+              "ToolTip": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\c#practise\\c#practise.csproj",
+              "RelativeToolTip": "c#practise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T09:27:45.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Overriding.cs",
+              "DocumentMoniker": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\C#Practise\\Overriding.cs",
+              "RelativeDocumentMoniker": "Overriding.cs",
+              "ToolTip": "C:\\Users\\kruth\\OneDrive\\Desktop\\CapGeminiTraining\\C#Practise\\Overriding.cs",
+              "RelativeToolTip": "Overriding.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:27:26.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
